@@ -1,4 +1,4 @@
-# 575-Distribute Candies
+# 575-Distribute Candies-Easy
 ###### tags: `leetcode`
 ## Problem
 Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, so she visited a doctor.
