@@ -37,7 +37,7 @@ them.
 Constraints:
 
 -   n == candyType.length
--   2 &lt;= n &lt;= 104
+-   2 &lt;= n &lt;= 10<sup>4</sup>
 -   n is even.
 -    − 10<sup>5</sup> &lt;= candyType\[i\] &lt;= 10<sup>5</sup> \#\#
     Answer
