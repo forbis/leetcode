@@ -37,6 +37,8 @@ Constraints:
 -   use loop to find duplicated num, and missing num will be positive
 
 **Example :**
-`cpp ! nums = [1, 2, 5, 4, 1, 6] first loop //if(nums[abs(element) - 1] > 0) { find duplicated num } else { let element to negative } nums = [-1, -2, 5, -4, -1, -6] second loop //if(nums[index] > 0) { find missing num }`
+```cpp ! 
+nums = [1, 2, 5, 4, 1, 6] first loop //if(nums[abs(element) - 1] > 0) { find duplicated num } else { let element to negative } nums = [-1, -2, 5, -4, -1, -6] second loop //if(nums[index] > 0) { find missing num }
+```
 \#\#\# Solution 2 - use set to find duplicated num - use nums’s index to
 find which num not in set
