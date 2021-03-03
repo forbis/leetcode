@@ -31,7 +31,7 @@ Explanation: Alice can only eat 4 / 2 = 2 candies. Even though she can eat 2 can
 Constraints:
 
 - n == candyType.length
-- 2 <= n <= $\10^{4}$
+- 2 <= n <= 10^4
 - n is even.
 - $\-10^{5}$ <= candyType[i] <= $\10^{5}$
 ## Answer
