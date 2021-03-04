@@ -35,7 +35,7 @@ Explanation: n = 1 since there is 1 number, so all numbers are in the range [0,1
 Constraints:
 
 - n == nums.length
-- 1 <= n <= $10^4$
+- 1 <= n <= 10<sub>4</sub>
 - 0 <= nums[i] <= n
 - All the numbers of nums are unique.
 ## Answer
