@@ -4,7 +4,7 @@
 Write a program to find the node at which the intersection of two singly linked lists begins.
 
 **Example 1:**
-![](https://assets.leetcode.com/uploads/2018/12/13/160_statement.png)
+![](https://assets.leetcode.com/uploads/2018/12/13/160_statement.png)  
 **Example 2:**
 ![](https://assets.leetcode.com/uploads/2020/06/29/160_example_1_1.png)
 
