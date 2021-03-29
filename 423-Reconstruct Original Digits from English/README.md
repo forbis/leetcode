@@ -24,5 +24,5 @@ Output: "45"
 - Input length is less than 50,000.
 
 ## Answer
-- find out the universe charactor in number '0'、'2'、'4'、'6'、'8' is 'z'、'w'、'u'、'x'、'g' and then calculate occur the same charactor in other word.
+- find out the universe character in number '0'、'2'、'4'、'6'、'8' is 'z'、'w'、'u'、'x'、'g' and then calculate occur the same character in other word.
 - For example, '1' is the count of 'o' and decrease '0'、'2'、'4'
