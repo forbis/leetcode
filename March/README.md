@@ -1,6 +1,12 @@
 TODO
-- 823 Binary Trees With Factors
-- 417 Pacific Atlantic Water Flow
-- 916 Word Subsets
-- 936
-- 354
+- Medium
+  - 823 Binary Trees With Factors
+  - 417 Pacific Atlantic Water Flow
+  - 916 Word Subsets
+  - 870
+  - 1721
+  - 647
+- Hard
+  - 714
+  - 936
+  - 354
