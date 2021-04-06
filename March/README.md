@@ -5,8 +5,8 @@ TODO
   - 916 Word Subsets
   - 870
   - 1721
-  - 647
-- Hard
+  - 647  
   - 714
+- Hard
   - 936
   - 354
